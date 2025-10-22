@@ -12,7 +12,8 @@
 		{ name: "Crosby Stanfield", url: "https://crosbystanfield.idealab.tools" },
 		{ name: "Conall Crawford", url: "https://conallcrawford.idealab.tools" },
 		{ name: "Bryison Macchiarole", url: "https://briysonnmacchiarole.idealab.tools" },
-        { name: "Clara Perona", url: "https://claraperona.idealab.tools" }
+        { name: "Clara Perona", url: "https://claraperona.idealab.tools" },
+        { name: "John Quinn", url: "https://johnquinn.idealab.tools" }
 	];
 </script>
 
