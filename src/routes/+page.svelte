@@ -18,6 +18,10 @@
 	];
 </script>
 
+<div class="px-10 py-10 max-w-3xl mx-auto">
+    <p class="text-gray-800 text-center">In the IdeaLab this quarter 6th Grade went through the whole process of planning, designing, and building a website that features something they are passionate about. Below are the websites they built and are best viewed on a desktop.</p>
+    <p class="text-gray-600 text-center text-sm pt-6">** Some websites may not be fully functional on a mobile device. **</p>
+</div>
 <div class="grid grid-cols-2 lg:grid-cols-4 gap-6 px-10 py-10">
 	{#each students as student}
 		<a 
